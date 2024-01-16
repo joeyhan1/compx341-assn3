@@ -1,0 +1,14 @@
+Compiling junit tests with graph stream library:
+javac -cp "gs-core-1.3.jar;gs-ui-1.3.jar;junit-platform-console-standalone-1.8.2.jar" *.java
+
+Running junit tests without graph stream library:
+java -jar junit-platform-console-standalone-1.8.2.jar -cp .\ -c AccountLoginTest
+
+Running junit test with graph stream library:
+java -jar junit-platform-console-standalone-1.8.2.jar -cp ".;gs-core-1.3.jar;gs-ui-1.3.jar" -c CategorisingDevicesTest
+
+Compiling graph stream library stuff:
+javac -cp "gs-core-1.3.jar;gs-ui-1.3.jar" *.java
+
+Running graph stream library stuff:
+java -cp ".;gs-core-1.3.jar;gs-ui-1.3.jar" Encost

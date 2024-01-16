@@ -1,0 +1,66 @@
+node {
+	size: 30px;
+}
+
+node.router {
+	fill-color: white;
+	stroke-color: black;
+	stroke-mode: plain;
+	stroke-width:5px;
+}
+
+node.hub {
+	fill-color: orange;
+}
+
+node.lighting {
+	fill-color: rgb(0, 158, 250);
+}
+
+node.appliance {
+	fill-color:rgb(226, 125, 201);
+}
+
+node.whiteware {
+	fill-color:rgb(27, 223, 60);
+}
+
+node.imgNode {
+	shape: box;
+	fill-mode: image-scaled;
+	size: 300px, 300px;
+	fill-image: url('images/sprite.png');
+}
+
+edge {
+	size: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

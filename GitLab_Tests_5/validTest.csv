@@ -1,0 +1,6 @@
+Device ID,Date Connected,Device Name,Device Type,Household ID,Router Connection,Sends,Receives
+EWR-1234,25/04/23,Encost Router 360,Router,WKO-1234,-,yes,yes
+EHC-2468,25/04/23,Encost Smart Hub,Hub/Controller,WKO-1235,EWR-1234,yes,yes
+ELB-4567,25/04/23,Encost Smart Bulb B22 (multi colour),LightBulb,WKO-1236,EWR-1234,no,yes
+EK-9867,25/04/23,Encost Smart Jug,Kettle,WKO-1237,EWR-1234,no,yes
+ESW-7569,25/04/23,Encost Smart Washer,Washing Machine,WKO-1238,EWR-1234,no,yes

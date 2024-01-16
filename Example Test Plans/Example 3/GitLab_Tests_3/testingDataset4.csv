@@ -1,0 +1,7 @@
+EWR-1357,03/03/2023,Encost Router 360,Router,BOP-7654,-,Yes,Yes
+EK-9876,03/03/2023,Encost Smart Jug,Kettle,BOP-7654,EWR-1357,Yes,No
+ESW-5555,03/03/2023,Encost Smart Washer,Washing,BOP-7654,EW-1357,Yes,Yes
+EWR-1234,03/03/2023,Encost Router 360,Router,BOP-2222,-,Yes,Yes
+EK-6789,03/03/2023,Encost Smart Jug,Kettle,BOP-2222,EWR-1234,Yes,No
+EWR-7890,03/03/2023,Encost Router 360,Router,AUK-3333,-,Yes,Yes
+ESW-4444,03/03/2023,Encost Smart Washer,Washing,AUK-3333,EWR-7890,Yes,Yes
